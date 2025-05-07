@@ -42,7 +42,7 @@ Follow these steps to import and run the SQL schema:
 
 ### 🗺️ Entity-Relationship Diagram (ERD)
 
-🔗 **Live ERD Link**: [View on dbdiagram.io](https://raw.githubusercontent.com/juliejules12/databaseproject/refs/heads/main/clinic.drawio.png)
+🔗 **Live ERD Link**: [https://raw.githubusercontent.com/juliejules12/databaseproject/refs/heads/main/clinic.drawio.png](https://raw.githubusercontent.com/juliejules12/databaseproject/refs/heads/main/clinic.drawio.png)
 
 ---
 
