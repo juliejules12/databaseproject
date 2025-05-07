@@ -25,7 +25,7 @@ cd databaseproject
 2. 🛠️ Open the SQL Script
 Use any SQL interface (e.g., MySQL Workbench, phpMyAdmin, DBeaver):
 
-Open the clinic_booking_system.sql file.
+**Open the clinic_booking_system.sql file.**
 
 3. ▶️ Run the Script
 Execute the file to create tables and relationships.
